@@ -9,5 +9,5 @@ class ApplicationController < ActionController::Base
 
   def goodbye
     render text: "Goodbye!"
-  enddef
+  end
 end
